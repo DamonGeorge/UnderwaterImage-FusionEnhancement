@@ -1,0 +1,7 @@
+# development requirements
+-e .
+autopep8
+pytest
+pre-commit
+pylint
+tqdm
